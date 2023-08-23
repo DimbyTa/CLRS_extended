@@ -1,5 +1,5 @@
 # CLRS_extended
-A GNN inspired by the example in the examples directory of CLRS (The CLRS Algorithmic Reasoning Benchmark).
+A GNN inspired by the example in the examples directory of CLRS (The CLRS Algorithmic Reasoning Benchmark, Veličković et al.).
 
 This repository contains the notebook where:
 * my personal implementation of HLFlow is tested against Google OR-Tools
